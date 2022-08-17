@@ -39,8 +39,6 @@ export class user_formComponent implements OnInit {
 
   constructor() { }
   ngOnInit(): void {
-    
-  
   }
   addUser(form: NgForm){
     console.log(form.form.value,this.newUser);
