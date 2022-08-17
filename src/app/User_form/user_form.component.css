@@ -1,0 +1,17 @@
+
+.center{
+    display: flex;
+    justify-content: center;
+
+}
+.color{
+    color: #008000;
+    font-style: italic;
+    font-family: Courier New, monospace;
+}
+.error{
+    
+    color: red;
+    
+    
+}
